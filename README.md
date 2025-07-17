@@ -1,1 +1,2 @@
-Major site upgrade underway, come back soon.
+# staydate.github.io
+Official Site for Staydate Holdings Limited
